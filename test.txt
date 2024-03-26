@@ -1,0 +1,9 @@
+.vscode
+HW
+Lectures
+log.txt
+log.txt.lck
+Seminars
+test.bin
+test.txt
+Справочник Java.txt
